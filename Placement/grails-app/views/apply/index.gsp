@@ -75,22 +75,19 @@
 		</style>
 	</head>
 	<body>
-		<g:form>
-
-def processApplication() {
- 
-}
- 
- 
-<input name="studentid"/>
+		
+<g:form>
  
 
+ <input name="studentid"/>
 
-def processApplication() {
+Then
+def processapplication() {
  
   log.debug(params.studentid)
  
 }
+def student_object = Student.findById(params.studentid);
 
 </g:form>
 	</body>

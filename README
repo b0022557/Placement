@@ -1,5 +1,25 @@
 This is my placement application for assignment 3.
 
+ne my project from GIT Hub you need to carry out the following steps. Code to enter in the terminal will be in red and italic. 
+In VMware open up the terminal. 
+Enter: 
+git clone git@github.com:b0022557/Placement.git 
+Once the project has cloned change directory to Placement. 
+Enter: 
+cd Placement/ 
+Again change directory to Placement. 
+Enter: 
+cd Placement/ 
+This will take you in Placement/Placement/. The grail-app will be within this Placement folder. Now run the grails-app. 
+Enter: 
+grails run-app 
+Once the app has run a URL will appear to enter into an internet browser. Enter the URL to view the grails project. 
+ 
+ 
+ 
+Enter the following URL into an internet browser. 
+http://localhost:8080/Placement 
+This will run my grails project and allow you to view my controllers.	
 
 
 
